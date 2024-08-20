@@ -1,0 +1,26 @@
+Task,Naive_random,Naive_oracle,Lag-Llama
+ATMUnderPeriodicMaintenanceTask, 0.534 +- 0.040, 0.000 +- 0.000, 0.217 +- 0.018
+BoundedPredConstraintsBasedOnPredQuantilesTask, 4540270945.506 +- 4060941771.140, 0.000 +- 0.000, 6.229 +- 5.416
+CashDepletedinATMScenarioTask, 0.245 +- 0.009, 0.000 +- 0.000, 0.215 +- 0.009
+DecreaseInTrafficInPredictionTask, 2.797 +- 0.798, 0.000 +- 0.000, 0.244 +- 0.046
+ElectricityIncreaseInPredictionTask, 0.721 +- 0.048, 0.000 +- 0.000, 0.449 +- 0.006
+ExplicitPressureFromSpeedTask, 0.288 +- 0.038, 74.496 +- 8.622, nan +- nan
+ExplicitTrafficForecastTaskwithHolidaysInPredictionWindow, 1.677 +- 0.214, 0.000 +- 0.000, 0.108 +- 0.009
+ExplicitTrafficForecastTaskwithHolidaysInPredictionWindowAndPastYearAnalogy, 1.894 +- 0.338, 0.000 +- 0.000, 0.118 +- 0.011
+ExplicitWithDatesAndDaysTrafficForecastTaskwithHolidaysInPredictionWindow, 1.694 +- 0.225, 0.000 +- 0.000, 0.108 +- 0.009
+ExplicitWithDatesAndDaysTrafficForecastTaskwithHolidaysInPredictionWindowAndPastYearAnalogy, 1.853 +- 0.325, 0.000 +- 0.000, 0.118 +- 0.011
+ExplicitWithDaysTrafficForecastTaskwithHolidaysInPredictionWindow, 1.691 +- 0.226, 0.000 +- 0.000, 0.108 +- 0.009
+ExplicitWithDaysTrafficForecastTaskwithHolidaysInPredictionWindowAndPastYearAnalogy, 1.861 +- 0.331, 0.000 +- 0.000, 0.118 +- 0.011
+ImplicitPressureFromSpeedTask, 0.288 +- 0.039, 74.496 +- 8.622, nan +- nan
+ImplicitTrafficForecastTaskwithHolidaysInPredictionWindow, 1.718 +- 0.222, 0.000 +- 0.000, 0.108 +- 0.009
+IncreasedWithdrawalScenario, 0.403 +- 0.027, 0.000 +- 0.000, 0.267 +- 0.010
+LocaleInfoHalfDaySolarForecastTask, 0.099 +- 0.007, 0.000 +- 0.000, 0.340 +- 0.144
+MinimalInfoHalfDaySolarForecastTask, 0.099 +- 0.007, 0.000 +- 0.000, 0.340 +- 0.144
+OraclePredUnivariateConstraintsTask, 1.618 +- 0.298, 0.000 +- 0.000, 0.218 +- 0.039
+PredictableSpikesInPredTask, 0.704 +- 0.025, 0.000 +- 0.000, 0.450 +- 0.011
+SensorMaintenanceInPredictionTask, 0.400 +- 0.022, 0.000 +- 0.000, 0.415 +- 0.029
+SensorPeriodicMaintenanceTask, 2.476 +- 1.043, 0.000 +- 0.000, 0.500 +- 0.086
+SensorSpikeTask, 1.778 +- 0.518, 0.000 +- 0.000, 0.260 +- 0.058
+SensorTrendAccumulationTask, 0.960 +- 0.257, 0.000 +- 0.000, 0.329 +- 0.093
+SpeedFromLoadTask, 3.756 +- 3.056, 3.764 +- 3.062, 0.573 +- 0.000
+ZenithInfoHalfDaySolarForecastTask, 0.099 +- 0.007, 0.000 +- 0.000, 0.340 +- 0.144
